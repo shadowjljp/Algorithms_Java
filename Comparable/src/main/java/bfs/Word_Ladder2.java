@@ -1,4 +1,4 @@
-package tw.leetcode.utd.tw.leetcode.utd.BFS;
+package bfs;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedList;
