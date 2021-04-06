@@ -1,0 +1,9 @@
+This is a Coupon.
+Here is the discount: 10% off!
+
+Below is after decorated.
+
+This is a Coupon.
+Free shipping for order over $90
+Here is the discount: 10% off!
+Extra 10% discount
