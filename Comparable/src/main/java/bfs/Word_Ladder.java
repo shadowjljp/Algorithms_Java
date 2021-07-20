@@ -6,8 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-import javafx.util.Pair;
-
+/*
 public class Word_Ladder {
 	  //Queue to store the words next to be visit and have not been //visited
     Queue<Pair<String,Integer>> Q_begin = new LinkedList<>();
@@ -91,4 +90,4 @@ public class Word_Ladder {
 	System.out.println(w.ladderLength(a,b,re));	
 	}
 
-}
+}*/

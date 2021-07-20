@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="AdvancedJava/src/main/java"/>
+	<classpathentry kind="src" path="AdvancedJava/src/test/java"/>
+	<classpathentry kind="src" path="Comparable/src/main/java"/>
+	<classpathentry kind="src" path="Critical section/src"/>
+	<classpathentry kind="src" path="Design Pattern/creational pattern"/>
+	<classpathentry kind="src" path="Design Pattern/src"/>
+	<classpathentry kind="src" path="JavaFX/src"/>
+	<classpathentry kind="src" path="Kruskals/src"/>
+	<classpathentry kind="src" path="LeetCode/src/main/java"/>
+	<classpathentry kind="src" path="LeetCode/src/test/java"/>
+	<classpathentry kind="src" path="Maze/src"/>
+	<classpathentry kind="src" path="OOP/src"/>
+	<classpathentry kind="src" path="Puzzle/src"/>
+	<classpathentry kind="src" path="SourceCode"/>
+	<classpathentry kind="src" path="Test/src"/>
+	<classpathentry kind="src" path="springboot/COVID_Tracker/src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11"/>
+	<classpathentry kind="src" path="springboot/COVID_Tracker/src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

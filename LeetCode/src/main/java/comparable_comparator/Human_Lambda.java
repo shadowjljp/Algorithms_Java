@@ -4,7 +4,6 @@ package comparable_comparator;
 import java.util.List;
 
 
-import com.google.common.collect.Lists;
 
 public class Human_Lambda {
 	private String name;

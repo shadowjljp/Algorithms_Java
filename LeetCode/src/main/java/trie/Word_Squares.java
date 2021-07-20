@@ -3,7 +3,6 @@ package trie;
 import java.util.ArrayList;
 import java.util.List;
 
-import edu.emory.mathcs.backport.java.util.Arrays;
 
 public class Word_Squares {
 	class TrieNode {

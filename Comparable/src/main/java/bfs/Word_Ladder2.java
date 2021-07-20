@@ -5,10 +5,9 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-import javafx.util.Pair;
 public class Word_Ladder2 {
 	
-
+/*
 
 	  private int L;
 	  private HashMap<String, ArrayList<String>> allComboDict;
@@ -117,5 +116,5 @@ public class Word_Ladder2 {
 		
 	System.out.println(w.ladderLength(a,b,re));	
 	}
-
+*/
 }
